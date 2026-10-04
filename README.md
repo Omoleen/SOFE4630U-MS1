@@ -17,7 +17,6 @@ GCP project: `clarity-staging-4afe8`.
 | `Design/csvProducer.py` | Reads `Labels.csv`, converts each row to a dictionary and publishes it to `weatherLabels`. |
 | `Design/csvConsumer.py` | Subscribes to `weatherLabels-sub` and prints the field values of each record. |
 | `Design/Labels.csv` | 100 labelled weather records used by the design part. |
-| `REPORT.md` | Milestone report: setup, discussion and design. |
 
 ## Topics and subscriptions
 
